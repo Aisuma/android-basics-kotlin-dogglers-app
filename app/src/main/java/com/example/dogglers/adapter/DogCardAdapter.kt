@@ -28,7 +28,6 @@ class DogCardAdapter(
     private val context: Context?,
     private val layout: Int
 ): RecyclerView.Adapter<DogCardAdapter.DogCardViewHolder>() {
-
     // TODO: Initialize the data using the List found in data/DataSource
 
     /**
@@ -36,6 +35,7 @@ class DogCardAdapter(
      */
     class DogCardViewHolder(view: View?): RecyclerView.ViewHolder(view!!) {
         // TODO: Declare and initialize all of the list item UI components
+
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DogCardViewHolder {
