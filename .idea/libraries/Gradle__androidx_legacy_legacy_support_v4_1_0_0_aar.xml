@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/downloads/caches/transforms-2/files-2.1/2df3aefc86299e680a16df59f058c06d/legacy-support-v4-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/downloads/caches/transforms-3/72295ab41bbe25cc485c5c5eeb904cdc/transformed/legacy-support-v4-1.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/downloads/caches/transforms-3/72295ab41bbe25cc485c5c5eeb904cdc/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/downloads/caches/transforms-3/72295ab41bbe25cc485c5c5eeb904cdc/transformed/legacy-support-v4-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/downloads/caches/transforms-3/4bff83eee0b72d41c132a85b37d6d02b/transformed/legacy-support-v4-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/downloads/caches/transforms-3/4bff83eee0b72d41c132a85b37d6d02b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/downloads/caches/transforms-3/4bff83eee0b72d41c132a85b37d6d02b/transformed/legacy-support-v4-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
